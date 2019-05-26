@@ -2,3 +2,4 @@
 testdump*.json
 transfer.sh
 tool.sh
+push.sh
