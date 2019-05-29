@@ -1,5 +1,5 @@
 #!/bin/bash
-N=10
+N=50
 while true; do
   NF=$(git status | grep 'new file:' | wc -l)
   if [ $NF -gt $N ]; then 
