@@ -1,7 +1,5 @@
-testdump*.json
-batch.lst
-flat
-sha256sums.sql
-transfer.sh
-2019electionresults.comelec.gov.ph/
-cloudflare/
+/*
+!/data/**
+!README.md
+!push.sh
+!tool.sh
