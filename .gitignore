@@ -1,5 +1,2 @@
-*
-!/data/**
-!README.md
-!push.sh
-!tool.sh
+testdump-*.json
+/flat/**
