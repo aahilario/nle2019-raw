@@ -1,4 +1,5 @@
 /*
+!/flat/**
 !/data/**
 !README.md
 !push.sh
